@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HW3_StroopTest</string>
+    <string name="greenLabel">Green</string>
+    <string name="blueLabel">Blue</string>
+    <string name="redLabel">Red</string>
+    <string name ="correctNumb">0</string>
+    <string name="incorrectNumb">0</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+    <string name="greenText">Green</string>
+    <string name ="blueText">Blue</string>
+    <string name="redText">Red</string>
+
+
+
+    <string-array name="textColors">
+        <item>@string/greenText</item>
+        <item>@string/blueText</item>
+        <item>@string/redText</item>
+    </string-array>
+</resources>
